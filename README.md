@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm David Yakymovych 👋</h1>
+<h1 align="center">Hello! I'm Davyd Yakymovych 👋</h1>
 
 <p align="center">
   <a href="https://t.me/dyakymov">
