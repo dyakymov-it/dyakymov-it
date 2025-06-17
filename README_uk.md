@@ -56,6 +56,7 @@
 ### 📫 Контакти
 
 [![Telegram](https://img.shields.io/badge/@dyakymov-%2300acee.svg?logo=telegram&logoColor=white)](https://t.me/dyakymov)
+[![Email](https://img.shields.io/badge/Email-davidyakymovych%40gmail.com-red?logo=gmail&logoColor=white)](mailto:davidyakymovych+github@gmail.com)
 
 ---
 
