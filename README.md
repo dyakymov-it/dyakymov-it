@@ -60,9 +60,14 @@ I love exploring new ideas, experimenting with tech, and developing projects tha
 
 ### 📦 Pet Projects
 
-- **Project Alpha** — lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-- **BotX** — Telegram bot that does something cool. Nulla facilisi, tincidunt ut laoreet vel.  
-- **ChainTool** — small tool for working with blockchain APIs. Quisque non felis at sapien fermentum.
+- **Telegram Bot: Audio/Video to Text + AI Summarizer**  
+  Bot that transcribes audio/video, extracts structured topics with timestamps, and uses AI to summarize long texts into digestible messages.
+
+- **Unity Game (2D survival)**  
+  A looped 2D action-survival game where the player fights monsters, collects loot, upgrades over time and replays the run. Simple but addictive.
+
+- **TON Wallet PNL API**  
+  An API for fetching real-time PNL (profit/loss) across all tokens on a TON wallet. Returns buy/sell amounts, current value, and net gain/loss.
 
 👉 Repositories coming soon.
 
